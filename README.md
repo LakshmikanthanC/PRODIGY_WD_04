@@ -36,10 +36,6 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ![Footer](https://github.com/user-attachments/assets/b10b6327-5c61-41a6-b3b0-1871b0e4c21f)
 
-## 📌Demo
-
-https://github.com/user-attachments/assets/6f271d4f-0006-471a-9c71-0d606746dd2f
-
 **Check out the website here ➡️** https://github.com/LakshmikanthanC/Portfolio
 
 ## 📌Installation
@@ -69,4 +65,4 @@ npm run dev
 
 ![GitHub Views]https://github.com/LakshmikanthanC/Portfolio
 
-#
+
